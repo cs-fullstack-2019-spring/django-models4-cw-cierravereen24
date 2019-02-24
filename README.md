@@ -1,3 +1,6 @@
+### POINTS: .5
+### KEY: You were heading in right direction on first one but did not complete it and did not route to it
+
 # Django Models and Foreign keys
 
 ### Exercise 1
